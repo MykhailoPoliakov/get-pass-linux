@@ -1,0 +1,9 @@
+{
+  "url": "https://...dev/",
+  "password": "password",
+  "accounts": [
+    "user1@server_ip",
+    "user2@server_ip",
+    "user3@server_ip"
+  ]
+}
